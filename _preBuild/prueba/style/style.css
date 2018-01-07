@@ -1,0 +1,101 @@
+ *{
+        margin: 0px;
+        padding: 0px;
+        font-family: arial; 
+        }
+        body{
+        background-image: url(http://mdm.unicundi.edu.co/repositorio/libres/guitarra/imagenes/Bankoboev.Ru_belo_goluboi_fon.jpg);
+        background-size: 100%;
+        }
+        header{
+        background-color: #246396;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        margin-bottom: 50px;
+
+        }
+
+        button{
+        background: #246396;
+        color: #f2f2f2;
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 5px;
+        position: relative;
+        box-sizing: border-box;
+        transition: all 500ms ease;
+        }
+        button:hover{
+        background: rgba(0,0,0,0);
+        color: #3a7999;
+        box-shadow: inset 0 0 0 3px #3a7999;
+        align-content: center;
+        }
+        aside{
+        width: 40%;
+        height: 400px;
+        float: right;
+        }
+        aside img{
+        padding-left: 30%;
+        }
+        aside button{
+        margin-left: 18%;
+        }
+        .ibody{
+            background-color: white;
+            border-radius: 10px;
+            margin: 10px auto;
+            position: fixed;
+            margin-left: 37.5%;
+            display: none;
+            width: 400px;
+        }
+       
+        .fcontacto{
+            padding: 10px;
+        }
+        label,input[type="submit"]{
+            margin-top: 10px;
+        }
+        .section{
+        display: none;
+        margin-top: 0%;
+        border-radius: 10px;
+        margin-left: 5%;
+        float: left;
+        width: 55%;
+        background-color: white;
+        }
+        #encabezado{
+        float: right;
+        }
+        #agenda{
+            padding-left: 20px;
+        }
+       
+        #h2{
+        color: white;
+        text-align: center;
+        }
+       
+      
+        .cerrar{
+        float: right;
+        font-size: 25px;
+        color: red;
+        font-weight: 400;
+        margin-right: 2%;
+        }
+        .datos{
+        margin-top: 10px;
+        margin-left: 10px;
+        float: left;
+        }
+#foto{
+    height: 300px;
+    width: 200px;
+    border: 1px solid red;
+    float: right;
+}
